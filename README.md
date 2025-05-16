@@ -3,6 +3,9 @@ Hackintosh for Lenovo ThinkPad T480
 
 # Following Guides
 
+For macOS VirtualBox VM
+https://github.com/jensdepuydt/macosvm_virtualbox_windows
+
 For general macOS Sequoia Hackintosh
 https://www.tonymacx86.com/threads/how-to-create-a-macos-sequoia-installation-usb.330200/
 
