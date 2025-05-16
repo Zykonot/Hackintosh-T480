@@ -3,6 +3,9 @@ Hackintosh for Lenovo ThinkPad T480
 
 # Following Guides
 
+OpenCore Install Guide
+https://dortania.github.io/OpenCore-Install-Guide/
+
 For macOS VirtualBox VM
 https://github.com/jensdepuydt/macosvm_virtualbox_windows
 
